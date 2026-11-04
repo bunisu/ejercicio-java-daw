@@ -1,3 +1,11 @@
+/*Ejercicio 4
+Se deberá realizar un programa que realice los siguientes pasos:
+ Crea un tipo enumerado con los valores siguientes: pequeña, mediana, grande, extragrande.
+ Crea cuatro variables del tipo enumerado anterior y asígnales a cada uno en valor dentro
+de los posibles.
+ Muestra por consola el valor de cada una de las variables y un texto que explique el valor.*/
+
+
 package ejercicios;
 
 public class Ejercicio4 {
