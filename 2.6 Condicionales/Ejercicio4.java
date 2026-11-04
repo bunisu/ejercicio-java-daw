@@ -21,8 +21,7 @@ usuario que tiene un vale descuento de 50 euros, en caso contrario indicad que n
 así.
  Mostrar toda la información en una ficha.
  * 
- * AUTOR:Sohaila Sara Chelbat Peral
- * FECHA: 13/10/2026
+ * 
  * 
  * */
 
