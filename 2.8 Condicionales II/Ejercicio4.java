@@ -11,8 +11,7 @@
  * Finalmente, mostrará la cantidad de números
  * positivos y la media de los mismos.
  *
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA: 16/10/2026
+ *
  */
 
 package ejercicios;
