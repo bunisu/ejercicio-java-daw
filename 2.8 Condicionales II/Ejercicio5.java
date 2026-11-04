@@ -6,8 +6,7 @@
  * la media de los números negativos y mostrar
  * la cantidad de ceros introducidos.
  *
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA: 16/10/2026
+ * 
  */
 
 package ejercicios;
