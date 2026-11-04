@@ -15,8 +15,7 @@ mensaje por pantalla: "<Nombre>, usted ha sido admitido en el curso, cumple las
 condiciones requeridas". En caso contrario mostrar el siguiente mensaje "<Nombre>, lo
 sentimos, no ha sido admitido en el curso ya que no cumple los requisitos mínimos"
 
-AUTOR:Sohaila Sara Chelbat Peral
-FECHA: 08/10/2026
+
 */
 
 public class Ejercicio2 {
