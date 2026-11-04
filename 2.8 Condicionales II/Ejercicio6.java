@@ -7,8 +7,7 @@
  * Repetir el proceso utilizando un bucle while
  * hasta que se introduzca un número negativo.
  *
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA: 16/10/2026
+ *
  */
 
 package ejercicios;
