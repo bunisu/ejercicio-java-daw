@@ -10,8 +10,7 @@
  *
  * El juego finalizará cuando el usuario acierte.
  *
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA: 16/10/2026
+
  */
 
 package ejercicios;
