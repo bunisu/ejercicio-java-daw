@@ -8,8 +8,7 @@ Una vez conocida la nota devolverá un mensaje al usuario en formato de ficha, m
 todos los datos así como la nota obtenida en formato palabra (Insuficiente, aprobado, bien,
 notable o sobresaliente)
 
-AUTOR: Sohaila Sara Chelbat Peral
-FECHA: 13/10/2026
+
  * */
 
 
