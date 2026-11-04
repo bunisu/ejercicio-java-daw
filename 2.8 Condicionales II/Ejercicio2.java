@@ -4,8 +4,7 @@
  * Crear un programa Java que muestre los números
  * del 1 al 100 utilizando la sentencia do-while.
  *
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA: 15/10/2026
+ *
  */
 
 package ejercicios;
