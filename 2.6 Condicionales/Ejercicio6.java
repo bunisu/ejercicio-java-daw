@@ -8,8 +8,7 @@ que dirá: " La nota académica indicada es incorrecta"
  Añadiremos al programa anterior un caso más, en caso de obtener una nota académica
 de 10, el valor mostrado será "Matrícula de Honor"
 
-AUTOR: Sohaila Sara Chelbat Peral
-FECHA: 14/10/2026
+
  * */
 
 
