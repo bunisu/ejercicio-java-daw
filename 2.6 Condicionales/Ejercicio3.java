@@ -12,8 +12,6 @@ En caso de cumplir el requisito de edad se le solicitarán los siguientes datos:
  Apellidos
 
 
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA:08-10-2026 
  * */
 
 import java.util.Scanner;
