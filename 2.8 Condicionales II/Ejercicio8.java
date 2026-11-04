@@ -15,8 +15,7 @@
  * - Distancia más larga.
  * - Ciudad de la ruta más larga.
  *
- * AUTOR: Sohaila Sara Chelbat Peral
- * FECHA: 17/10/2026
+ *
  */
 
 package ejercicios;
